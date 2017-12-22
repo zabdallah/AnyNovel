@@ -1,4 +1,6 @@
 # AnyNovel
+
+This is an implementation of AnyNovel Algorithm for detetcing novel concepts in evloving data streams. Paper can be found here https://link.springer.com/article/10.1007/s12530-016-9147-7
 Setup and commandas
 --------------------------
 For training and building the model only, Run TrainingLauncher. To train the model using a given labelled instances please use the following command 
