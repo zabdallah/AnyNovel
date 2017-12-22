@@ -1,0 +1,9 @@
+Outstanding: 
+- Validate_Flag: activate incremenetal and active learning in case of Fp and Fn (if validation data is provided), throws an error if True and no validation file is provided 
+- Threads
+- last seg (uneven size (n==i, delclared) deleted all, lastSegDecsiion )
+
+- Chuncks of code
+- Review any novel code: clean up 
+- Parameters and data files 
+

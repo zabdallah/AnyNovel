@@ -1,0 +1,14 @@
+Segment_Size = 5
+Slacks = 0.1
+Movement = 0.6
+Stable_Size = 5
+Away_Threshold = 0.5
+Novel_Slack = 0.5
+Buffer_Flag = false
+JP_Layer= true
+Update_Flag = true
+Validate_Flag = false
+
+Command: 
+-BLM train iris_vergincia_setosa.arff -test iris.arff
+-BLM train iris_vesicolor_sentosa.arff -test iris.arff

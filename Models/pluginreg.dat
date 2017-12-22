@@ -1,0 +1,163 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.17:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+iPhotoPhotocast.plugin:$
+/Library/Internet Plug-Ins/iPhotoPhotocast.plugin:$
+7.0:$
+1288728134000:0:0:0:$
+iPhoto6:$
+iPhotoPhotocast:$
+1
+0:application/photo:iPhoto 700::$
+Silverlight.plugin:$
+/Library/Internet Plug-Ins/Silverlight.plugin:$
+5.0.61118.0:$
+1321847164000:0:0:0:$
+5.0.61118.0:$
+Silverlight Plug-In:$
+2
+0:application/x-silverlight:Microsoft Silverlight:xaml:$
+1:application/x-silverlight-2:Microsoft Silverlight:xaml:$
+Flip4Mac WMV Plugin.plugin:$
+/Library/Internet Plug-Ins/Flip4Mac WMV Plugin.plugin:$
+2.4.2.4:$
+1332277984000:0:0:0:$
+The Flip4Mac WMV Plugin allows you to view Windows Media content using QuickTime.:$
+Flip4Mac Windows Media Plugin:$
+13
+0:video/x-ms-asf:Windows Media Video:asf:$
+1:video/x-ms-asx:Windows Media Playlist:asx:$
+2:audio/x-ms-wax:Windows Media Playlist:wax:$
+3:application/x-ms-wmp:Windows Media Plugin::$
+4:video/x-ms-wmp:Windows Media Video:wmp:$
+5:application/x-mplayer2:Windows Media Plugin::$
+6:video/x-ms-wmx:Windows Media Playlist:wmx:$
+7:video/x-ms-wm:Windows Media Video:wm:$
+8:video/x-ms-wvx:Windows Media Playlist:wvx:$
+9:video/x-ms-wmv:Windows Media Video:wmv:$
+10:video/x-ms-asf-plugin:Windows Media Plugin::$
+11:audio/x-ms-wma:Windows Media Audio:wma:$
+12:application/asx:Windows Media Plugin::$
+SharePointBrowserPlugin.plugin:$
+/Library/Internet Plug-Ins/SharePointBrowserPlugin.plugin:$
+14.4.8:$
+1421395200000:0:0:0:$
+Microsoft Office for Mac SharePoint Browser Plug-in:$
+SharePoint Browser Plug-in:$
+2
+0:application/x-sharepoint:Microsoft Office for Mac SharePoint Browser Plug-in::$
+1:application/x-sharepoint-protocolhandler:Microsoft Office for Mac Protocol Handler::$
+Default Browser.plugin:$
+/Library/Internet Plug-Ins/Default Browser.plugin:$
+600:$
+1437098095000:0:0:0:$
+Provides information about the default web browser:$
+Default Browser Helper:$
+1
+0:application/apple-default-browser:Provides information about the default web browser::$
+googletalkbrowserplugin.plugin:$
+/Library/Internet Plug-Ins/googletalkbrowserplugin.plugin:$
+5.41.3.0:$
+1449858085000:0:0:0:$
+Version 5.41.3.0:$
+Google Talk Plugin:$
+1
+0:application/googletalk:Google voice and video chat:googletalk:$
+o1dbrowserplugin.plugin:$
+/Library/Internet Plug-Ins/o1dbrowserplugin.plugin:$
+5.41.3.0:$
+1449858085000:0:0:0:$
+Version 5.41.3.0:$
+Google Talk Plugin Video Renderer:$
+1
+0:application/o1d:Google Talk Plugin Video Renderer:o1d:$
+JavaAppletPlugin.plugin:$
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin:$
+Java 8 Update 73 build 02:$
+1454109652000:0:0:0:$
+Displays Java applet content, or a placeholder if Java is not installed.:$
+Java Applet Plug-in:$
+21
+0:application/x-java-applet;jpi-version=1.8.0_73:Java Applet::$
+1:application/x-java-applet;version=1.4:Java Applet::$
+2:application/x-java-applet;version=1.2.1:Java Applet::$
+3:application/x-java-applet;deploy=11.73.2:Java Applet::$
+4:application/x-java-applet;version=1.2.2:Java Applet::$
+5:application/x-java-applet;version=1.3:Java Applet::$
+6:application/x-java-applet;version=1.8:Java Applet::$
+7:application/x-java-vm:Java Applet::$
+8:application/x-java-applet;version=1.1.1:Java Applet::$
+9:application/x-java-applet;version=1.2:Java Applet::$
+10:application/x-java-applet;version=1.7:Java Applet::$
+11:application/x-java-applet;version=1.4.1:Java Applet::$
+12:application/x-java-applet;version=1.1.2:Java Applet::$
+13:application/x-java-applet:Basic Java Applet::$
+14:application/x-java-applet;javafx=8.0.71:JavaFX Applet::$
+15:application/x-java-applet;version=1.1:Java Applet::$
+16:application/x-java-applet;version=1.1.3:Java Applet::$
+17:application/x-java-applet;version=1.6:Java Applet::$
+18:application/x-java-applet;version=1.4.2:Java Applet::$
+19:application/x-java-applet;version=1.3.1:Java Applet::$
+20:application/x-java-applet;version=1.5:Java Applet::$
+AdobePDFViewerNPAPI.plugin:$
+/Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin:$
+15.020.20039:$
+1475276934000:0:0:0:$
+Adobe® Acrobat® Plug-in for Web Browsers, Version 15.020.20039:$
+Adobe Acrobat NPAPI Plug-in, Version 15.020.20039:$
+8
+0:application/vnd.adobe.pdf:Acrobat Portable Document Format:pdf:$
+1:application/vnd.adobe.pdfxml:Acrobat XML Portable Document Format:pdfxml:$
+2:application/vnd.adobe.x-mars:Acrobat XML Portable Document Format:mars:$
+3:application/vnd.adobe.xdp+xml:XML Data Package:xdp:$
+4:application/vnd.fdf:Acrobat Forms Data Format:fdf:$
+5:application/vnd.adobe.xfd+xml:FormFlow99 Data File:xfd:$
+6:application/pdf:Acrobat Portable Document Format:pdf:$
+7:application/vnd.adobe.xfdf:Acrobat Forms Data Format in XML:xfdf:$
+Flash Player.plugin:$
+/Library/Internet Plug-Ins/Flash Player.plugin:$
+24.0.0.194:$
+1484178701000:0:0:0:$
+Shockwave Flash 24.0 r0:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
+Picasa.plugin:$
+/Users/Zahraa/Library/Internet Plug-Ins/Picasa.plugin:$
+1.0:$
+1407871326000:0:0:0:$
+Picasa plugin.:$
+Picasa:$
+1
+0:application/x-picasa-detect:3.1:picasa:$
+Cisco Jabber Guest Plug-in.10.5.3.25.plugin:$
+/Users/Zahraa/Library/Internet Plug-Ins/Cisco Jabber Guest Plug-in.10.5.3.25.plugin:$
+10.5.3.25:$
+1417636392000:0:0:0:$
+Cisco Jabber Guest Plug-in - version 10.5.3.25 - 5ad1e25b9eab3bfa2166dcf3b6bbd0483589a74e 12/03/2014 11:51:02:$
+Cisco Jabber Guest Plug-in:$
+1
+0:application/x-chip:Cisco Jabber Guest Plug-in - version 10.5.3.25 - 5ad1e25b9eab3bfa2166dcf3b6bbd0483589a74e 12/03/2014 11:51:02::$
+
+[INVALID]
+/Library/Internet Plug-Ins/flashplayer.xpt:$
+1481923404000:$
+/Library/Internet Plug-Ins/AdobePDFViewer.plugin:$
+1475276935000:$
+/Users/Zahraa/Library/Internet Plug-Ins/.DS_Store:$
+1454650708000:$
+/Library/Internet Plug-Ins/.DS_Store:$
+1364215477000:$
+/Library/Internet Plug-Ins/Quartz Composer.webplugin:$
+1410301211000:$
+/Library/Internet Plug-Ins/SharePointWebKitPlugin.webplugin:$
+1421395200000:$
+/Library/Internet Plug-Ins/EPPEX Plugin.plugin:$
+1248929978000:$
+/Library/Internet Plug-Ins/Disabled Plug-Ins:$
+1468541323000:$

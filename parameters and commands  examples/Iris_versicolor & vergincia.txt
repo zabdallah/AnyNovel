@@ -1,0 +1,15 @@
+Segment_Size = 5
+Slacks = 0.5
+Movement = 0.6
+Stable_Size = 5
+Away_Threshold = 0.5
+Novel_Slack = 0.5
+Buffer_Flag = false
+JP_Layer= true
+Update_Flag = true
+Validate_Flag = false
+
+Command: 
+-BLM train iris_setosa.arff0 -test iris.arff
+
+Note the discovery of both novel classes (vergincia and versicolor)

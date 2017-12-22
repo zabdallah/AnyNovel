@@ -1,0 +1,716 @@
+Auburn                              AL   S    ESC        5449    5529    5004
+Bessemer                            AL   S    ESC        6307   14402   11580
+Birmingham                          AL   S    ESC        9957   12586    8148
+Decatur                             AL   S    ESC        4542    7206    6657
+Dothan                              AL   S    ESC        6622   11453    5974
+Florence                            AL   S    ESC        4880    6112    4338
+Huntsville                          AL   S    ESC        7217    2842    7328
+Mobile                              AL   S    ESC        8090   12863    6338
+Montgomery                          AL   S    ESC        5513    8581    7788
+Phenix City                         AL   S    ESC        6542    9776    4693
+Tuscaloosa                          AL   S    ESC        6622   10534   13123
+Anchorage                           AK   W    PACIFIC    6369    6687    5024
+Chandler                            AZ   W    MTN        9757    7166    4858
+Flagstaff                           AZ   W    MTN        8301    8336    7912
+Glendale                            AZ   W    MTN        8763    9192    6721
+Mesa                                AZ   W    MTN        6993    7595    6168
+Phoenix                             AZ   W    MTN        9264    9958    7720
+Scottsdale                          AZ   W    MTN        6342    5531    4294
+Tempe                               AZ   W    MTN        2164    8396    8211
+Tucson                              AZ   W    MTN       10027   10401    8992
+Fayetteville                        AR   S    WSC        5283    7587    5318
+Fort Smith                          AR   S    WSC        6657    9317    6546
+Hot Springs                         AR   S    WSC        8434   11485    9485
+Jacksonville                        AR   S    WSC        4475    6862    5219
+Jonesboro                           AR   S    WSC        3422    7183    4952
+Little Rock                         AR   S    WSC       10807   16171    9891
+North Little Rock                   AR   S    WSC        7497   12055    9988
+Pine Bluff                          AR   S    WSC        6115    9567    9258
+West Memphis                        AR   S    WSC        6248    6193    5603
+Alameda                             CA   W    PACIFIC    6752    6629    3673
+Alhambra                            CA   W    PACIFIC    5769    5252    2392
+Anaheim                             CA   W    PACIFIC    7313    7152    3374
+Antioch                             CA   W    PACIFIC    6241    6941    3026
+Arcadia                             CA   W    PACIFIC    4768    4501    2763
+Azusa                               CA   W    PACIFIC    7044    5657    2826
+Bakersfield                         CA   W    PACIFIC    9644    7940    5253
+Baldwin Park                        CA   W    PACIFIC    5367    4171    1946
+Bell                                CA   W    PACIFIC    4584    3404    2626
+Bellflower                          CA   W    PACIFIC    4900    6398    3914
+Bell Gardens                        CA   W    PACIFIC    5389    4660    3089
+Berkeley                            CA   W    PACIFIC   12362   12575    7606
+Beverly Hills                       CA   W    PACIFIC    8135    8163    4283
+Brea                                CA   W    PACIFIC    5817    6303    4046
+Buena Park                          CA   W    PACIFIC    5315    6930    2555
+Burbank                             CA   W    PACIFIC    4310    4871    2846
+Burlingame                          CA   W    PACIFIC    4100    5040    3181
+Camarillo                           CA   W    PACIFIC    2225    3221    1873
+Campbell                            CA   W    PACIFIC    6014    4981    3098
+Carlsbad                            CA   W    PACIFIC    5685    5737    2884
+Carson                              CA   W    PACIFIC    5097    6163    3813
+Cerritos                            CA   W    PACIFIC    5483    7197    4725
+Chico                               CA   W    PACIFIC    8925    7487    5029
+Chino                               CA   W    PACIFIC    4775    5599    3292
+Chula Vista                         CA   W    PACIFIC    5845    7819    4303
+Claremont                           CA   W    PACIFIC    4790    5084    2794
+Clovis                              CA   W    PACIFIC    6518    6671    3733
+Compton                             CA   W    PACIFIC    8665    7765    5195
+Concord                             CA   W    PACIFIC    6092    6554    5498
+Corona                              CA   W    PACIFIC    8286    7486    3178
+Costa Mesa                          CA   W    PACIFIC    7001    9122    3474
+Covina                              CA   W    PACIFIC    5236    6072    4359
+Culver City                         CA   W    PACIFIC    7924    7515    3309
+Cupertino                           CA   W    PACIFIC    4770    4199    2286
+Cypress                             CA   W    PACIFIC    4055    5222    2383
+Daly City                           CA   W    PACIFIC    3536    4304    2511
+Davis                               CA   W    PACIFIC    6503    7157    2982
+Downey                              CA   W    PACIFIC    4996    4935    3836
+El Cajon                            CA   W    PACIFIC    5930    7181    4031
+El Monte                            CA   W    PACIFIC    6399    6001    2934
+Escondido                           CA   W    PACIFIC    5564    8059    3925
+Fairfield                           CA   W    PACIFIC    5961    7521    4954
+Fontana                             CA   W    PACIFIC    7866    7749    3197
+Fountain Valley                     CA   W    PACIFIC    4785    5599    2951
+Fremont                             CA   W    PACIFIC    4504    4006    2878
+Fresno                              CA   W    PACIFIC   10476   12031    7137
+Fullerton                           CA   W    PACIFIC    6026    6950    3234
+Gardena                             CA   W    PACIFIC    6888    8612    4801
+Garden Grove                        CA   W    PACIFIC    7008    6893    3570
+Glendale                            CA   W    PACIFIC    4881    5018    2657
+Glendora                            CA   W    PACIFIC    3785    3502    2137
+Hawthorne                           CA   W    PACIFIC    7346    9185    4785
+Hayward                             CA   W    PACIFIC    7274    7405    4585
+Huntington Beach                    CA   W    PACIFIC    4606    4334    2454
+Huntington Park                     CA   W    PACIFIC    6907    8354    4113
+Inglewood                           CA   W    PACIFIC    8015    8475    3865
+Irvine                              CA   W    PACIFIC    4840    4361    2437
+La Habra                            CA   W    PACIFIC    4525    4779    2603
+Lakewood                            CA   W    PACIFIC    4089    5836    3304
+La Mesa                             CA   W    PACIFIC    4559    6661    3649
+La Mirada                           CA   W    PACIFIC    3043    3679    2431
+Lancaster                           CA   W    PACIFIC    5097    5116    3415
+La Puente                           CA   W    PACIFIC    5130    5768    2613
+Livermore                           CA   W    PACIFIC    4804    4912    2475
+Lodi                                CA   W    PACIFIC    8054    7027    4939
+Lompoc                              CA   W    PACIFIC    5310    4894    4046
+Long Beach                          CA   W    PACIFIC    7902    9131    4152
+Los Altos                           CA   W    PACIFIC    2670    2142    1302
+Los Angeles                         CA   W    PACIFIC    9239    9730    4589
+Los Gatos town                      CA   W    PACIFIC    5318    3950    2450
+Lynwood                             CA   W    PACIFIC    6438    6760    4041
+Manhattan Beach                     CA   W    PACIFIC    5147    6425    3589
+Menlo Park                          CA   W    PACIFIC    5803    5212    2899
+Merced                              CA   W    PACIFIC     779    6242    6754
+Milpitas                            CA   W    PACIFIC    5997    4903    3651
+Modesto                             CA   W    PACIFIC    7784    6724    5441
+Monrovia                            CA   W    PACIFIC    6657    6421    2697
+Montebello                          CA   W    PACIFIC    5595    5769    3654
+Monterey                            CA   W    PACIFIC    7026    6435    4566
+Monterey Park                       CA   W    PACIFIC    4920    5105    2205
+Mountain View                       CA   W    PACIFIC    5967    5171    3235
+Napa                                CA   W    PACIFIC    6241    5326    2909
+National City                       CA   W    PACIFIC    8105    9404    5391
+Newark                              CA   W    PACIFIC    6354    6934    4063
+Newport Beach                       CA   W    PACIFIC    6997    6369    2911
+Norwalk                             CA   W    PACIFIC    4150    5413    3283
+Novato                              CA   W    PACIFIC    2895    3090    2481
+Oakland                             CA   W    PACIFIC   11826   12186    8370
+Oceanside                           CA   W    PACIFIC    5378    6377    3382
+Ontario                             CA   W    PACIFIC    7095    8185    5164
+Orange                              CA   W    PACIFIC    5736    6707    2888
+Oxnard                              CA   W    PACIFIC    6234    6756    3765
+Pacifica                            CA   W    PACIFIC    2321    2915    1568
+Palm Springs                        CA   W    PACIFIC    8756   10564    6836
+Palo Alto                           CA   W    PACIFIC    6509    6034    3474
+Paramount                           CA   W    PACIFIC    6217    7544    4867
+Pasadena                            CA   W    PACIFIC    8768    7081    3650
+Petaluma                            CA   W    PACIFIC    5145    4342    3022
+Pico Rivera                         CA   W    PACIFIC    3912    5032    2660
+Pittsburg                           CA   W    PACIFIC    7629    6374    4314
+Placentia                           CA   W    PACIFIC    3655    3744    1948
+Pleasant Hill                       CA   W    PACIFIC    6336    7400    3695
+Pleasanton                          CA   W    PACIFIC    4216    3604    2455
+Pomona                              CA   W    PACIFIC    8816    7546    4802
+Rancho Cucamonga                    CA   W    PACIFIC    4247    5169    3139
+Rancho Palos Verdes                 CA   W    PACIFIC    1912    2166    1000
+Redding                             CA   W    PACIFIC    7544    6438    4276
+Redlands                            CA   W    PACIFIC    4808    5242    3441
+Redondo Beach                       CA   W    PACIFIC    5544    7286    3184
+Redwood City                        CA   W    PACIFIC    4830    5051    3226
+Rialto                              CA   W    PACIFIC    7227    6895    4004
+Richmond                            CA   W    PACIFIC   11630   12293    7506
+Riverside                           CA   W    PACIFIC    8366    8935    4386
+Rosemead                            CA   W    PACIFIC    4895    5293    2800
+Sacramento                          CA   W    PACIFIC   10835   10098    6611
+Salinas                             CA   W    PACIFIC    8558    6890    5110
+San Bruno                           CA   W    PACIFIC    3834    5423    2465
+San Clemente                        CA   W    PACIFIC    3402    3172    1742
+San Diego                           CA   W    PACIFIC    6870    8537    4004
+San Francisco                       CA   W    PACIFIC    7988    9384    5725
+San Gabriel                         CA   W    PACIFIC    5529    5223    2394
+San Jose                            CA   W    PACIFIC    5697    5364    2944
+San Leandro                         CA   W    PACIFIC    6917    6762    5689
+San Luis Obispo                     CA   W    PACIFIC    5604    4345    4426
+San Mateo                           CA   W    PACIFIC    5894    4557    2787
+San Rafael                          CA   W    PACIFIC    5015    6225    3411
+Santa Ana                           CA   W    PACIFIC    9683    7654    3597
+Santa Barbara                       CA   W    PACIFIC    5920    5999    3320
+Santa Clara                         CA   W    PACIFIC    5728    6269    3013
+Santa Cruz                          CA   W    PACIFIC   12870    7972    4874
+Santa Maria                         CA   W    PACIFIC    8034    7292    3672
+Santa Monica                        CA   W    PACIFIC   10259   11720    5376
+Santa Rosa                          CA   W    PACIFIC    6878    6035    4202
+Saratoga                            CA   W    PACIFIC    2236    2042    1217
+Seal Beach                          CA   W    PACIFIC    3296    3119    2200
+Seaside                             CA   W    PACIFIC    4966    4273    3547
+Simi Valley                         CA   W    PACIFIC    3026    3338    1469
+South Gate                          CA   W    PACIFIC    4965    5673    3237
+South San Francisco                 CA   W    PACIFIC    3828    4493    2674
+Stockton                            CA   W    PACIFIC   10977   11326    6791
+Sunnyvale                           CA   W    PACIFIC    3518    3903    2053
+Temple City                         CA   W    PACIFIC    2912    3430    1652
+Thousand Oaks                       CA   W    PACIFIC    3251    3119    1540
+Torrance                            CA   W    PACIFIC    5250    5892    3304
+Turlock                             CA   W    PACIFIC    7667    7935    5712
+Tustin                              CA   W    PACIFIC    7581    6322    3465
+Union City                          CA   W    PACIFIC    6195    5415    3989
+Upland                              CA   W    PACIFIC    4809    6800    4288
+Vacaville                           CA   W    PACIFIC    3631    4349    2763
+Vallejo                             CA   W    PACIFIC    6992    8067    6454
+Visalia                             CA   W    PACIFIC    8387    8487    5522
+Walnut Creek                        CA   W    PACIFIC    4408    4658    3373
+West Covina                         CA   W    PACIFIC    5993    7067    4226
+Westminster                         CA   W    PACIFIC    5633    6962    4192
+Whittier                            CA   W    PACIFIC    4173    4815    2978
+Woodland                            CA   W    PACIFIC    5996    5159    2952
+Yorba Linda                         CA   W    PACIFIC    2270    2355    1412
+Arvada                              CO   W    MTN        3918    4130    3497
+Aurora                              CO   W    MTN        8537    8631    5588
+Boulder                             CO   W    MTN        7113    7790    4243
+Colorado Springs                    CO   W    MTN        8669    7441    5374
+Denver                              CO   W    MTN       10376    7625    5256
+Englewood                           CO   W    MTN       11833   10676    7028
+Fort Collins                        CO   W    MTN        6154    5809    4359
+Grand Junction                      CO   W    MTN        6922   10440    6308
+Greeley                             CO   W    MTN        9232    7229    5047
+Lakewood                            CO   W    MTN        8333    6583    4871
+Littleton                           CO   W    MTN        6136    4857    2921
+Northglenn                          CO   W    MTN        7554    6823    4647
+Pueblo                              CO   W    MTN        7224    7775    6135
+Thornton                            CO   W    MTN        7599    6423    5050
+Westminster                         CO   W    MTN        8278    6358    4278
+Bridgeport                          CT   NE   NEW_ENG   11052   12253    6015
+Bristol                             CT   NE   NEW_ENG    2699    4273    2563
+Danbury                             CT   NE   NEW_ENG    4347    5588    3437
+Hartford                            CT   NE   NEW_ENG   13096   15178    7783
+Meriden                             CT   NE   NEW_ENG    4076    5107    3875
+Middletown                          CT   NE   NEW_ENG    4473    5657    3047
+Naugatuck borough                   CT   NE   NEW_ENG    2063    3252    2010
+New Britain                         CT   NE   NEW_ENG    6165    8463    5608
+New Haven                           CT   NE   NEW_ENG   11599   14922    9725
+New London                          CT   NE   NEW_ENG    7605    8837    5295
+Norwich                             CT   NE   NEW_ENG    4276    4701    3558
+Shelton                             CT   NE   NEW_ENG    1950    1833    1586
+Stamford                            CT   NE   NEW_ENG    5965    6011    3107
+Torrington                          CT   NE   NEW_ENG    2251    4519    2250
+Waterbury                           CT   NE   NEW_ENG    6654    9326    6023
+West Haven                          CT   NE   NEW_ENG    4407    6536    4070
+Newark                              DE   S    S_ATL      6846    6792    4497
+Wilmington                          DE   S    S_ATL      9405   11822    9433
+District of Columbia                DC   S    S_ATL      8007   10768    8067
+Boca Raton                          FL   S    S_ATL      6196    5155    4461
+Boynton Beach                       FL   S    S_ATL      8265    9008    9129
+Bradenton                           FL   S    S_ATL     10539   10195    7106
+Cape Coral                          FL   S    S_ATL      3326    2829    3231
+Clearwater                          FL   S    S_ATL      7545    9453    6731
+Coral Gables                        FL   S    S_ATL     10827   13446    8231
+Coral Springs                       FL   S    S_ATL      3813    4400    3461
+Daytona Beach                       FL   S    S_ATL     14878   14590   10215
+Deerfield Beach                     FL   S    S_ATL      6050    7508    3997
+Delray Beach                        FL   S    S_ATL     12251   11884    9221
+Dunedin                             FL   S    S_ATL      4140    4203    3385
+Fort Lauderdale                     FL   S    S_ATL     14074   15874    9188
+Fort Myers                          FL   S    S_ATL     10470   15572   12913
+Fort Pierce                         FL   S    S_ATL     14049   13743   10664
+Gainesville                         FL   S    S_ATL      8122   10369    8138
+Hallandale                          FL   S    S_ATL      7638    8007    7695
+Hialeah                             FL   S    S_ATL      8456    8172    6968
+Hollywood                           FL   S    S_ATL      9133   10106    7396
+Lakeland                            FL   S    S_ATL     10760   15705    9043
+Lake Worth                          FL   S    S_ATL     11199   12944   11486
+Largo                               FL   S    S_ATL      4258    5110    4576
+Lauderdale Lakes                    FL   S    S_ATL      5225    9110    5202
+Lauderhill                          FL   S    S_ATL      6070    7257    5987
+Margate                             FL   S    S_ATL      3582    4196    3466
+Melbourne                           FL   S    S_ATL      8771    9139    7238
+Miami                               FL   S    S_ATL     15122   18394   10724
+Miami Beach                         FL   S    S_ATL     12254   14817   14604
+Miramar                             FL   S    S_ATL      3324    6087    4641
+North Miami                         FL   S    S_ATL      9796   12676    9462
+North Miami Beach                   FL   S    S_ATL      9083    7786    6730
+Ocala                               FL   S    S_ATL     12148   14734   11540
+Orlando                             FL   S    S_ATL     11352    6712   13618
+Panama City                         FL   S    S_ATL      9501   10210    6288
+Pembroke Pines                      FL   S    S_ATL      4366    4724    3742
+Pensacola                           FL   S    S_ATL      6699     612    5523
+Pinellas Park                       FL   S    S_ATL      7011    7479    6667
+Plantation                          FL   S    S_ATL      8664    8745    6076
+Pompano Beach                       FL   S    S_ATL     13548   12538    8545
+Riviera Beach                       FL   S    S_ATL     15976   10330   14542
+St. Petersburg                      FL   S    S_ATL      8456   11023    8815
+Sarasota                            FL   S    S_ATL      9827   14965    7178
+Sunrise                             FL   S    S_ATL      3417    5884    6172
+Tallahassee                         FL   S    S_ATL      9473   15563    9323
+Tamarac                             FL   S    S_ATL      3100    4261    2661
+Tampa                               FL   S    S_ATL     14642   16557   10929
+Titusville                          FL   S    S_ATL      7495    9818    5590
+West Palm Beach                     FL   S    S_ATL     18081   17463   15410
+Albany                              GA   S    S_ATL      5874   11952    8164
+Athens                              GA   S    S_ATL      6672   12910    7464
+Atlanta                             GA   S    S_ATL     13183   18953   13489
+Columbus                            GA   S    S_ATL      5384    6201    6648
+East Point                          GA   S    S_ATL      9203    9918   10253
+Macon                               GA   S    S_ATL      6286    9951   10602
+Marietta                            GA   S    S_ATL     11264   13415    6114
+Rome                                GA   S    S_ATL      5409   11525   10594
+Savannah                            GA   S    S_ATL      8089    9811    8405
+Honolulu (CDP)                      HI   W    PACIFIC    5146    5959    4925
+Boise City                          ID   W    MTN        5939    5559    4760
+Idaho Falls                         ID   W    MTN        5493    6165    4908
+Lewiston                            ID   W    MTN        5303    4334    4242
+Nampa                               ID   W    MTN        6819    9111    6007
+Pocatello                           ID   W    MTN        5107    5150    3115
+Twin Falls                          ID   W    MTN        5647    7793    6344
+Bloomington                         IN   MW   ENC        4190     362    4072
+Columbus                            IN   MW   ENC        6985    5709    5870
+Elkhart                             IN   MW   ENC        7915    8810   10610
+Evansville                          IN   MW   ENC        5252    5993    5024
+Fort Wayne                          IN   MW   ENC        7391    9767    6621
+Gary                                IN   MW   ENC        6278    9918    6043
+Hammond                             IN   MW   ENC        5700    9406    7831
+Kokomo                              IN   MW   ENC        5224    5715    5890
+Lawrence                            IN   MW   ENC        1887    3818    2640
+Merrillville town                   IN   MW   ENC        3564    4891    4130
+Michigan City                       IN   MW   ENC        6638   10034    6523
+Mishawaka                           IN   MW   ENC        6308    7538    9026
+New Albany                          IN   MW   ENC        6728    6391    6338
+Portage                             IN   MW   ENC        3779    4843    3766
+Richmond                            IN   MW   ENC        4271    5278    6688
+South Bend                          IN   MW   ENC        8955    4544    8806
+Terre Haute                         IN   MW   ENC        5649    5180    8956
+Topeka                              KS   MW   WNC        7761   10435   11115
+Wichita                             KS   MW   WNC        7634    9830    6313
+Bowling Green                       KY   S    ESC        5351    8572    6426
+Louisville                          KY   S    ESC        5797    6425    5965
+Owensboro                           KY   S    ESC        4969    5027    4719
+Paducah                             KY   S    ESC        7425   11074    7534
+Alexandria                          LA   S    WSC        9316   10097   10850
+Baton Rouge                         LA   S    WSC       12724   13118   10072
+Bossier City                        LA   S    WSC        6681    7110    7414
+Houma                               LA   S    WSC        5215    6848    9211
+Kenner                              LA   S    WSC        5140    9172    6005
+Lafayette                           LA   S    WSC        9991    9059    7579
+Lake Charles                        LA   S    WSC        5849    6939    7229
+Monroe                              LA   S    WSC        6474   12609   13349
+New Iberia                          LA   S    WSC        3210    3811    2539
+New Orleans                         LA   S    WSC        8681   10830    7677
+Shreveport                          LA   S    WSC        9220   10098    9709
+Annapolis                           MD   S    S_ATL      9026    8280    7802
+Frederick                           MD   S    S_ATL      7220    6249    5319
+Hagerstown                          MD   S    S_ATL      5200    5810    5098
+Beverly                             MA   NE   NEW_ENG    2157    3168    1800
+Boston                              MA   NE   NEW_ENG   11877   10837    6288
+Brockton                            MA   NE   NEW_ENG    8391    9097    5580
+Cambridge                           MA   NE   NEW_ENG    7015    6630    4651
+Chicopee                            MA   NE   NEW_ENG    3628     448    5846
+Fall River                          MA   NE   NEW_ENG    6186    6449    4422
+Fitchburg                           MA   NE   NEW_ENG    3477    3812    5757
+Gloucester                          MA   NE   NEW_ENG    2539    3624    1809
+Leominster                          MA   NE   NEW_ENG    4018    4490    3894
+Lynn                                MA   NE   NEW_ENG    7894    8936    5470
+Malden                              MA   NE   NEW_ENG    3722    4497    3292
+Medford                             MA   NE   NEW_ENG    3247    3915    2602
+Melrose                             MA   NE   NEW_ENG    1838    2185    1280
+Newton                              MA   NE   NEW_ENG    3410    3312    1723
+Northampton                         MA   NE   NEW_ENG    3956    4704    2360
+Peabody                             MA   NE   NEW_ENG    4203    5446    2927
+Pittsfield                          MA   NE   NEW_ENG    3817    4586    3346
+Quincy                              MA   NE   NEW_ENG    4483    4259    3179
+Revere                              MA   NE   NEW_ENG    2758    5924    3895
+Somerville                          MA   NE   NEW_ENG    4783    3949    2655
+Springfield                         MA   NE   NEW_ENG    5244   11173    8031
+Taunton                             MA   NE   NEW_ENG    2846    4190    3099
+Waltham                             MA   NE   NEW_ENG    3968    4355    1872
+Westfield                           MA   NE   NEW_ENG    2938    4955    2917
+Woburn                              MA   NE   NEW_ENG    3180    1228    2366
+Allen Park                          MI   MW   ENC        3886    4717    2162
+Ann Arbor                           MI   MW   ENC        8525    6330    3628
+Battle Creek                        MI   MW   ENC        9000   11748    6351
+Bay City                            MI   MW   ENC        5266    6200    5399
+Burton                              MI   MW   ENC        6964    7053    7160
+Dearborn                            MI   MW   ENC        8266    8426    6757
+Dearborn Heights                    MI   MW   ENC        4678    6224    3362
+Detroit                             MI   MW   ENC       13750   12263   10416
+Farmington Hills                    MI   MW   ENC        5255    4086    2783
+Ferndale                            MI   MW   ENC        6933    7725    3939
+Flint                               MI   MW   ENC       14980   13314   11018
+Garden City                         MI   MW   ENC        3913    4409    2209
+Holland                             MI   MW   ENC        4698    6042    4203
+Jackson                             MI   MW   ENC        9086   12528    7960
+Kalamazoo                           MI   MW   ENC       11152   10301    7201
+Kentwood                            MI   MW   ENC        5769    5469    4586
+Lansing                             MI   MW   ENC        7707    8058    5945
+Lincoln Park                        MI   MW   ENC        7520    6938    5087
+Livonia                             MI   MW   ENC        4803    4251    3042
+Madison Heights                     MI   MW   ENC        7468    4832    4674
+Midland                             MI   MW   ENC        3709    3721    2190
+Muskegon                            MI   MW   ENC       10465   13912   10193
+Oak Park                            MI   MW   ENC        7755    7792    4137
+Portage                             MI   MW   ENC        4237    5984    4217
+Port Huron                          MI   MW   ENC        5864    7130    4761
+Roseville                           MI   MW   ENC        8634   10433    3717
+Royal Oak                           MI   MW   ENC        5564    5582    3211
+Saginaw                             MI   MW   ENC       10899   12482    6731
+St. Clair Shores                    MI   MW   ENC        4516    5169    2506
+Southfield                          MI   MW   ENC       11098    7459    7143
+Southgate                           MI   MW   ENC        6156    6353    4206
+Sterling Heights                    MI   MW   ENC        4744    4876    3031
+Taylor                              MI   MW   ENC        7057    8434    5476
+Troy                                MI   MW   ENC        7270    5082    3054
+Westland                            MI   MW   ENC        5083    6597    3494
+Wyandotte                           MI   MW   ENC        5322    4253    2563
+Wyoming                             MI   MW   ENC        5392    6543    3841
+Blaine                              MN   MW   WNC        5733    6492    4719
+Bloomington                         MN   MW   WNC        4198    4276    5513
+Brooklyn Center                     MN   MW   WNC        5868    9189    8342
+Brooklyn Park                       MN   MW   WNC        4843    5769    4863
+Burnsville                          MN   MW   WNC        5467    5312    3844
+Coon Rapids                         MN   MW   WNC        4863    4822    4096
+Duluth                              MN   MW   WNC        4730    5642    4558
+Edina                               MN   MW   WNC        3597    3553    2887
+Fridley                             MN   MW   WNC        5260    6410    6243
+Mankato                             MN   MW   WNC        7099    6382    6140
+Minneapolis                         MN   MW   WNC       10519   11282    8635
+Minnetonka                          MN   MW   WNC        4651    3614    2942
+Moorhead                            MN   MW   WNC        4461    5869    2659
+Plymouth                            MN   MW   WNC        3449    3329    2669
+Richfield                           MN   MW   WNC        3809    4970    4552
+Rochester                           MN   MW   WNC        4337    5114    3442
+Roseville                           MN   MW   WNC        4740    7120    5162
+St. Louis Park                      MN   MW   WNC        4617    4601    3999
+St. Paul                            MN   MW   WNC        7784    7892    7064
+Winona                              MN   MW   WNC        5619    5212    4030
+Gulfport                            MS   S    ESC       10235    8904    8268
+Hattiesburg                         MS   S    ESC        4769    7467    7200
+Jackson                             MS   S    ESC        6336   13687   10568
+Meridian                            MS   S    ESC        4289    5139    5156
+Pascagoula                          MS   S    ESC        6394   10557   11370
+Blue Springs                        MO   MW   WNC        4310    4032    5274
+Cape Girardeau                      MO   MW   WNC        5577    6381    7141
+Columbia                            MO   MW   WNC        7035    6693    5065
+Florissant                          MO   MW   WNC        1963    2865    2855
+Independence                        MO   MW   WNC        4732    6868    7019
+Jefferson City                      MO   MW   WNC        4096    5002    4592
+Joplin                              MO   MW   WNC        7577    9623    7393
+Kansas City                         MO   MW   WNC       10477   13198   11631
+Kirkwood                            MO   MW   WNC        3047    2915    1647
+Lee's Summit                        MO   MW   WNC        3314    2956    2641
+Raytown                             MO   MW   WNC        3583    4059    3719
+St. Charles                         MO   MW   WNC        3372    4108    3233
+St. Joseph                          MO   MW   WNC        5519    6361    6438
+St. Louis                           MO   MW   WNC       11392   16031   13998
+Springfield                         MO   MW   WNC        6974    8406    8003
+University City                     MO   MW   WNC        5583    6756    7240
+Billings                            MT   W    MTN        8193    4218    5132
+Great Falls                         MT   W    MTN        7509    9659    6742
+Missoula                            MT   W    MTN        8354     187    7736
+Grand Island                        NE   MW   WNC        6485    7044    6594
+Lincoln                             NE   MW   WNC        5914    7718    6276
+Omaha                               NE   MW   WNC        6261    7081    7048
+Las Vegas                           NV   W    MTN        7705    7431    5185
+Reno                                NV   W    MTN        9520    8454    5566
+Sparks                              NV   W    MTN        6359    7710    5107
+Manchester                          NH   NE   NEW_ENG    5774    7067    3936
+Atlantic City                       NJ   NE   MID_ATL   38379   37903   22322
+Bayonne                             NJ   NE   MID_ATL    2891    3580    2300
+Camden                              NJ   NE   MID_ATL   12874   16240    8670
+Clifton                             NJ   NE   MID_ATL    3581    4799    3278
+East Orange                         NJ   NE   MID_ATL   10277   10395    7233
+Elizabeth                           NJ   NE   MID_ATL    7668   10404    6375
+Fair Lawn borough                   NJ   NE   MID_ATL    2641    2231    1628
+Fort Lee borough                    NJ   NE   MID_ATL    4932    3418    2278
+Garfield                            NJ   NE   MID_ATL    1169    2247    2705
+Hackensack                          NJ   NE   MID_ATL    6870    6587    4114
+Hoboken                             NJ   NE   MID_ATL    5042    8441    4021
+Jersey City                         NJ   NE   MID_ATL    7787    9201    5745
+Kearny town                         NJ   NE   MID_ATL    5223    5810    4249
+Linden                              NJ   NE   MID_ATL    4849    7301    4342
+Long Branch                         NJ   NE   MID_ATL    6880    9458    4571
+Newark                              NJ   NE   MID_ATL   12264   14806    7881
+New Brunswick                       NJ   NE   MID_ATL    6836   10620    7131
+Paramus borough                     NJ   NE   MID_ATL   14014   16628   10602
+Passaic                             NJ   NE   MID_ATL    6691    6965    5217
+Paterson                            NJ   NE   MID_ATL    7724    7643    4406
+Perth Amboy                         NJ   NE   MID_ATL    3943    6922    4227
+Plainfield                          NJ   NE   MID_ATL    8387    8063    6366
+Rahway                              NJ   NE   MID_ATL    3980    4834    3253
+Sayreville borough                  NJ   NE   MID_ATL    3133    3750    2289
+Trenton                             NJ   NE   MID_ATL    8190   10863    7415
+Union City                          NJ   NE   MID_ATL    7012    6620    4107
+Vineland                            NJ   NE   MID_ATL    7663    8494    5677
+Westfield town                      NJ   NE   MID_ATL    1973    2916    1327
+West New York town                  NJ   NE   MID_ATL    5487    6438    3858
+Albuquerque                         NM   W    MTN        9287   10284    9766
+Clovis                              NM   W    MTN        5451    4199    7763
+Farmington                          NM   W    MTN        7980    9699    4650
+Hobbs                               NM   W    MTN        6828    8243    5985
+Las Cruces                          NM   W    MTN        9255    9804    8472
+Albany                              NY   NE   MID_ATL    5763    7461    7917
+Auburn                              NY   NE   MID_ATL    2358    4201    4315
+Binghamton                          NY   NE   MID_ATL    4585    4866    5030
+Buffalo                             NY   NE   MID_ATL    7077    9555    6869
+Freeport village                    NY   NE   MID_ATL    5233    5142    3197
+Hempstead village                   NY   NE   MID_ATL    3635    5534    4098
+Jamestown                           NY   NE   MID_ATL    4770    5556    4040
+New York                            NY   NE   MID_ATL    8372    9236    4032
+North Tonawanda                     NY   NE   MID_ATL    2730    2736    2007
+Poughkeepsie                        NY   NE   MID_ATL    7669    7851    5310
+Rochester                           NY   NE   MID_ATL    9247   11196    7415
+Rome                                NY   NE   MID_ATL    2545    2747    1873
+Syracuse                            NY   NE   MID_ATL    7318    7726    5819
+Utica                               NY   NE   MID_ATL    3004    5809    4732
+Watertown                           NY   NE   MID_ATL    4275    4970    3371
+White Plains                        NY   NE   MID_ATL    5702    6642    4970
+Yonkers                             NY   NE   MID_ATL    4816    5788    3169
+Asheville                           NC   S    S_ATL      7811   10608    8366
+Burlington                          NC   S    S_ATL      5088    6604    7530
+Chapel Hill town                    NC   S    S_ATL      5149    6818    6761
+Charlotte                           NC   S    S_ATL      9856   12643    8830
+Durham                              NC   S    S_ATL      9451   10214   11379
+Fayetteville                        NC   S    S_ATL     12086   13752   11181
+Gastonia                            NC   S    S_ATL     11271   12847   11438
+Goldsboro                           NC   S    S_ATL      6328   11121    7897
+Greensboro                          NC   S    S_ATL      6179    8990    7741
+Greenville                          NC   S    S_ATL      7398    2221    9326
+High Point                          NC   S    S_ATL      7366   10269    8919
+Kinston                             NC   S    S_ATL      7998   10646    9098
+Raleigh                             NC   S    S_ATL      5983    7790    7099
+Rocky Mount                         NC   S    S_ATL      8395   11159    9101
+Wilmington                          NC   S    S_ATL     10733   14019   11400
+Winston-Salem                       NC   S    S_ATL      7279   11393   10141
+Bismarck                            ND   MW   WNC        5515    5006    3655
+Fargo                               ND   MW   WNC        6057    3766    3339
+Grand Forks                         ND   MW   WNC        4692    5280    4971
+Minot                               ND   MW   WNC        4782    2604    3103
+Akron                               OH   MW   ENC        6676    8066    7307
+Barberton                           OH   MW   ENC        5375    5507    5266
+Beavercreek village                 OH   MW   ENC        2650    2896    3895
+Bowling Green                       OH   MW   ENC        3272    4097    3853
+Cincinnati                          OH   MW   ENC        7707    9722    6355
+Cleveland                           OH   MW   ENC        7887    8945    6743
+Cleveland Heights                   OH   MW   ENC        3717    2708    1987
+Columbus                            OH   MW   ENC        7668   10145    9102
+Cuyahoga Falls                      OH   MW   ENC        2860    4129    3581
+Dayton                              OH   MW   ENC        9434   11767    9512
+Euclid                              OH   MW   ENC        4121    5849    4654
+Fairborn                            OH   MW   ENC        3538    4280    4682
+Fairfield                           OH   MW   ENC        4391    6272    5000
+Hamilton                            OH   MW   ENC        7555    8591    7830
+Kent                                OH   MW   ENC        4191    4529    3585
+Kettering                           OH   MW   ENC        4225    4558    4054
+Lakewood                            OH   MW   ENC        3214    2419    2690
+Lancaster                           OH   MW   ENC        5028    1796    4908
+Lima                                OH   MW   ENC        7547    9914    6927
+Lorain                              OH   MW   ENC        3219    4084    3241
+Mansfield                           OH   MW   ENC        7844   10279    6780
+Maple Heights                       OH   MW   ENC        2405    4089    2755
+Mentor                              OH   MW   ENC        2909    3160    2848
+Middletown                          OH   MW   ENC        6330    6289    6400
+Sandusky                            OH   MW   ENC        6117    7926    6746
+Springfield                         OH   MW   ENC        7753   10770   10122
+Stow                                OH   MW   ENC        3337    3104    2105
+Strongsville                        OH   MW   ENC        2651    2598    2855
+Toledo                              OH   MW   ENC        7255    9503    7410
+Upper Arlington                     OH   MW   ENC        3323    3155    2388
+Youngstown                          OH   MW   ENC        6809   10419    7496
+Bartlesville                        OK   S    WSC        5412    4272    4819
+Broken Arrow                        OK   S    WSC        3905    3864    2774
+Edmond                              OK   S    WSC        4553    4994    2697
+Enid                                OK   S    WSC        7316    7898    6751
+Lawton                              OK   S    WSC        6182    6926    5891
+Midwest City                        OK   S    WSC        7210    7406    5022
+Moore                               OK   S    WSC        6010    5168    3167
+Muskogee                            OK   S    WSC        6659    8416    7280
+Norman                              OK   S    WSC        5946    5547    3550
+Oklahoma City                       OK   S    WSC       11189   11073    9319
+Ponca City                          OK   S    WSC        3687    6427    6290
+Shawnee                             OK   S    WSC        8943    8412    7336
+Stillwater                          OK   S    WSC        3375    4595    3556
+Tulsa                               OK   S    WSC        8710    8887    7396
+Albany                              OR   W    PACIFIC    6898    8822    6800
+Beaverton                           OR   W    PACIFIC    6459    5074    5021
+Corvallis                           OR   W    PACIFIC    5476    4805    4424
+Eugene                              OR   W    PACIFIC    8417    7815    7889
+Gresham                             OR   W    PACIFIC    6504    5875    5831
+Hillsboro                           OR   W    PACIFIC    5661    3811    4340
+Medford                             OR   W    PACIFIC    8673    7496    6618
+Portland                            OR   W    PACIFIC   16937   11182    8134
+Salem                               OR   W    PACIFIC    9250    8481    7523
+Springfield                         OR   W    PACIFIC    8513    7480    9453
+Allentown                           PA   NE   MID_ATL    5397    6274    5523
+Altoona                             PA   NE   MID_ATL    3344    3079    4137
+Bethel Park borough                 PA   NE   MID_ATL    1558    1145     968
+Bethlehem                           PA   NE   MID_ATL    3749    4010    3685
+Chester                             PA   NE   MID_ATL    9959   12512    8421
+Easton                              PA   NE   MID_ATL    5248    5470    5910
+Erie                                PA   NE   MID_ATL    4635    5313    3830
+Harrisburg                          PA   NE   MID_ATL    9796    9358    5989
+Johnstown                           PA   NE   MID_ATL    3345    5441    3155
+McKeesport                          PA   NE   MID_ATL    3674    4055    5777
+Monroeville borough                 PA   NE   MID_ATL    4037     691    3381
+New Castle                          PA   NE   MID_ATL    4925    4004    4403
+Norristown borough                  PA   NE   MID_ATL    6471    6145    6680
+Philadelphia                        PA   NE   MID_ATL    5101    6835    7291
+Pittsburgh                          PA   NE   MID_ATL    7215    8219    6124
+Plum borough                        PA   NE   MID_ATL     991     547    1168
+Reading                             PA   NE   MID_ATL    7438    9341    7898
+State College borough               PA   NE   MID_ATL    3560    3018    2303
+Wilkes-Barre                        PA   NE   MID_ATL    4725    2778    4881
+Williamsport                        PA   NE   MID_ATL    5446    6296    5574
+Cranston                            RI   NE   NEW_ENG    4334    3465    2843
+East Providence                     RI   NE   NEW_ENG    3058    3468    2140
+Newport                             RI   NE   NEW_ENG    7931    8803    6542
+Pawtucket                           RI   NE   NEW_ENG    4454    5905    4453
+Providence                          RI   NE   NEW_ENG    9877   10153    8027
+Warwick                             RI   NE   NEW_ENG    4984    5626    3286
+Woonsocket                          RI   NE   NEW_ENG    3457    5321    2587
+Anderson                            SC   S    S_ATL      7806    8338    7357
+Charleston                          SC   S    S_ATL      6789    9231    7802
+Florence                            SC   S    S_ATL      9807   11636   12615
+Greenville                          SC   S    S_ATL      9854   12088    9211
+North Charleston                    SC   S    S_ATL      7952   13093   11566
+Spartanburg                         SC   S    S_ATL     10067   13269    9172
+Rapid City                          SD   MW   WNC        7380    7627    5644
+Sioux Falls                         SD   MW   WNC        4810    5088    3780
+Chattanooga                         TN   S    ESC        8110   12665   10788
+Clarksville                         TN   S    ESC        4303    7531    3695
+Cleveland                           TN   S    ESC        4998    6073    5020
+Columbia                            TN   S    ESC        3777    7641    7288
+Jackson                             TN   S    ESC        8526   11785   10346
+Johnson City                        TN   S    ESC        5125    6489    5367
+Kingsport                           TN   S    ESC        6603    7866    6211
+Knoxville                           TN   S    ESC        6170    9261    5665
+Memphis                             TN   S    ESC        9160   10184    8368
+Murfreesboro                        TN   S    ESC        5700    8034    6014
+Nashville-Davidson                  TN   S    ESC        6620    8665    8884
+Abilene                             TX   S    WSC        5849    5922    4535
+Amarillo                            TX   S    WSC        6503    7932    7789
+Arlington                           TX   S    WSC        8968    9480    6242
+Austin                              TX   S    WSC        9606   11295    7145
+Baytown                             TX   S    WSC        5934    8997    4675
+Beaumont                            TX   S    WSC        7272   11260    9048
+Brownsville                         TX   S    WSC        8408    9817    6184
+Bryan                               TX   S    WSC        7239    8436    6883
+Carrollton                          TX   S    WSC        6126    6723    3514
+College Station                     TX   S    WSC        5254    4222    3997
+Corpus Christi                      TX   S    WSC        8066   10443    7136
+Dallas                              TX   S    WSC       12982   15066    9616
+Del Rio                             TX   S    WSC        4958    7012    5184
+Denton                              TX   S    WSC        9065    7799    4225
+Duncanville                         TX   S    WSC        6282    6308    4376
+El Paso                             TX   S    WSC        7096    9630    5792
+Fort Worth                          TX   S    WSC       13867   16973    7488
+Galveston                           TX   S    WSC        9910   12927    8708
+Garland                             TX   S    WSC        5614    6549    4511
+Grand Prairie                       TX   S    WSC        8791    9208    5826
+Harlingen                           TX   S    WSC        7656    9069    6493
+Houston                             TX   S    WSC        8928   10824    7271
+Hurst                               TX   S    WSC        7945    8440    5304
+Irving                              TX   S    WSC        9783    8542    5095
+Killeen                             TX   S    WSC        7637    7719    6119
+Kingsville                          TX   S    WSC        5246    6426    6002
+Laredo                              TX   S    WSC        7170    9419    7454
+Longview                            TX   S    WSC        6948   10160    6244
+Lubbock                             TX   S    WSC        9617    6542    6634
+Lufkin                              TX   S    WSC        6212    8768    7121
+McAllen                             TX   S    WSC        7098   10700    7296
+Mesquite                            TX   S    WSC        8905    8052    5291
+Midland                             TX   S    WSC        4975    7196    3613
+Nacogdoches                         TX   S    WSC        4359    5579    5635
+North Richland Hills                TX   S    WSC        7041    6823    4053
+Odessa                              TX   S    WSC        8522   13972    5148
+Pasadena                            TX   S    WSC        5569    9261    4660
+Plano                               TX   S    WSC        6141    5776    3546
+Port Arthur                         TX   S    WSC        4524    8209    4248
+Richardson                          TX   S    WSC        5328    6498    4176
+San Angelo                          TX   S    WSC        6381    6589    4932
+San Antonio                         TX   S    WSC        9687   12291    6793
+Sherman                             TX   S    WSC        7940    8905    6486
+Temple                              TX   S    WSC        6014    7927    6352
+Texarkana                           TX   S    WSC        8674   11061    7042
+Texas City                          TX   S    WSC        7157   10433    9691
+Victoria                            TX   S    WSC        6704    9922    5377
+Wichita Falls                       TX   S    WSC        8406   10136    5472
+Bountiful                           UT   W    MTN        3488    3298    2739
+Ogden                               UT   W    MTN        9071    8556    7990
+Orem                                UT   W    MTN        3913    4450    4817
+Provo                               UT   W    MTN        3662    3710    3216
+Salt Lake City                      UT   W    MTN       11593   12680   10320
+Sandy City                          UT   W    MTN        4162    4383    3197
+West Jordan                         UT   W    MTN        5366    5458    4105
+Burlington                          VT   NE   NEW_ENG   10217    8772    5141
+Alexandria                          VA   S    S_ATL      7079    7525    4746
+Blacksburg town                     VA   S    S_ATL      4036    2971    2340
+Charlottesville                     VA   S    S_ATL      7562    6483    6057
+Danville                            VA   S    S_ATL      3111    4757    5111
+Hampton                             VA   S    S_ATL      5560    6089    4233
+Lynchburg                           VA   S    S_ATL      4725    5413    4197
+Newport News                        VA   S    S_ATL      4664    6803    5666
+Portsmouth                          VA   S    S_ATL      5720    9892    6912
+Richmond                            VA   S    S_ATL      7931   11611    7920
+Roanoke                             VA   S    S_ATL      7973    8942    4963
+Suffolk                             VA   S    S_ATL      4472    6400    4816
+Virginia Beach                      VA   S    S_ATL      5083    5863    3676
+Auburn                              WA   W    PACIFIC    8373    7544   10210
+Bellevue                            WA   W    PACIFIC    7318    5578    4419
+Bellingham                          WA   W    PACIFIC    8255    8044    7048
+Bremerton                           WA   W    PACIFIC    6437    6749    6681
+Edmonds                             WA   W    PACIFIC    4141    3511    3528
+Everett                             WA   W    PACIFIC   10731    7484    6521
+Kennewick                           WA   W    PACIFIC    7194    8549    6199
+Longview                            WA   W    PACIFIC    7751    5065    9012
+Olympia                             WA   W    PACIFIC    7951    7463    6484
+Renton                              WA   W    PACIFIC   10465    9953    7388
+Richland                            WA   W    PACIFIC    3474    3851    3024
+Seattle                             WA   W    PACIFIC   12743   12248    9165
+Spokane                             WA   W    PACIFIC    8457    8877    8042
+Tacoma                              WA   W    PACIFIC   12994   11287    9549
+Vancouver                           WA   W    PACIFIC    7956    6493    9043
+Walla Walla                         WA   W    PACIFIC    8047    9501    6844
+Yakima                              WA   W    PACIFIC   12115   12952    9954
+Charleston                          WV   S    S_ATL     10190   11860    9048
+Parkersburg                         WV   S    S_ATL      5404    3617    3751
+Appleton                            WI   MW   ENC        3792    4293    2647
+Beloit                              WI   MW   ENC        9060    7402    4836
+Brookfield                          WI   MW   ENC        4003    4276    3081
+Eau Claire                          WI   MW   ENC        4939    5256    4092
+Fond du Lac                         WI   MW   ENC        4872    6189    4060
+Green Bay                           WI   MW   ENC        5407    5099    4342
+Greenfield                          WI   MW   ENC        5084    4797    3844
+Janesville                          WI   MW   ENC        5615    6726    5517
+Kenosha                             WI   MW   ENC        6904    5582    3486
+La Crosse                           WI   MW   ENC        6471    6490    4200
+Madison                             WI   MW   ENC        7225    6650    3746
+Manitowoc                           WI   MW   ENC        4582    5510    4251
+Menomonee Falls village             WI   MW   ENC        3411    4079    1889
+Milwaukee                           WI   MW   ENC        7066    9044    7929
+New Berlin                          WI   MW   ENC        2226    2110    1547
+Oshkosh                             WI   MW   ENC        6315    6102    3692
+Racine                              WI   MW   ENC        8572    9453    6378
+Sheboygan                           WI   MW   ENC        6013    6417    4310
+Waukesha                            WI   MW   ENC        2212    4052    2316
+Wausau                              WI   MW   ENC        5529    5219    3872
+Wauwatosa                           WI   MW   ENC        4508    4736    4784
+West Allis                          WI   MW   ENC        4256    5370    4510
+Casper                              WY   W    MTN        5158    7050    4507
+Cheyenne                            WY   W    MTN        5770    6308    4271

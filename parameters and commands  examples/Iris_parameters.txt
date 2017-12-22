@@ -1,0 +1,10 @@
+Segment_Size = 10
+Default_Slack = 0.1
+Slacks = 0.1
+Movement = 0.5
+Stable_Size = 10
+Away_Threshold = 0.1
+Buffer_Flag = true
+JP_Layer= true
+Update_Flag = true
+Validate_Flag = false
