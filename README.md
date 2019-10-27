@@ -4,6 +4,21 @@
 This is an implementation of AnyNovel Algorithm for detetcing novel concepts in evloving data streams. Paper can be found at https://link.springer.com/article/10.1007/s12530-016-9147-7
 
 
+# Classes and Key functions: 
+------------------------------
+* class ExpLauncher : To run training/ building the model followed by AnyNovel using the built model using either train and test data or loading an existing model. The class is the main interface for collecting arguments and build a new model or load an existing model
+
+* class TrainingLauncher: This class is responsible of  AnyNovel offline phase of building the model from a training data 
+
+* class AnyNovelLauncher: Main class to Run AnyNovel prediction phase. 
+Main Functions: 
+		- private static BLM AnyNovel(BLM BaseModel, Instances StreamInst, HashMap<String, String> parameters)
+  Run anyNovel prediction phase using offline built BaseModel, while streamInst data arrives. It returns the updated model which dynamically evolves. 
+		- public static Instances removeClass(Instances inst): When class is no longer appears in the stream, AnyNovel remove its relevant instances. 
+  
+
+
+
 Setup and commandas
 --------------------------
 For training and building the model only, Run TrainingLauncher. To train the model using a given labelled instances please use the following command 
