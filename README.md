@@ -98,5 +98,5 @@ Test/Iris.arff: Contains tets data for exiisting and new concepts.
 PS. the focus of AnyNovel is for detecting novel concepts instaed of classifying/distinguishing between existing once. Therefore, prediction accuracy and confusion matrix for existing classes are for guidance only. 
  
 
-EXxpLauncher>> AntNovelLaouncher.Run (>> AntNovelLaouncher. runOnData (BLM, Test Data) >>AnyNovel 
+EXxpLauncher>> AntNovelLauncher.Run (>> AntNovelLaoncher. runOnData (BLM, Test Data) >>AnyNovel 
 9BLM, test data, parameters) >> ACTION FUNCTION BLM. AdaptationComponent (streamSegment) 
