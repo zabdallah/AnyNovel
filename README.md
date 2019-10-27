@@ -11,6 +11,7 @@ For training and building the model only, Run TrainingLauncher. To train the mod
 TraingingLaucher is an offline process and may take time to build the BLM which will be used later by anyNovel. The model is stored in Models folder and can be used directly by AnyNovel in the online/streaming environment. 
 
 - BLM : takes two parameters: 
+
 1- train or load (please note "load" runs only through ExpLauncher, if you run TrainingLauncher only train option is valid)
 
 2- dataset name or exact file name, that is located in "Data" folder, including extenstion 
