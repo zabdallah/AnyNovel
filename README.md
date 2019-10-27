@@ -17,20 +17,19 @@ Main class to Run AnyNovel prediction phase.
 
 *Main Functions:*
 
-- private static BLM AnyNovel(BLM BaseModel, Instances StreamInst, HashMap<String, String> parameters)
+- BLM AnyNovel(BLM BaseModel, Instances StreamInst, HashMap<String, String> parameters)
 
 Run anyNovel prediction phase using offline built BaseModel, while streamInst data arrives. It returns the updated model which dynamically evolves.
   
-  - public static Instances removeClass(Instances inst): 
+  - Instances removeClass(Instances inst): 
   
-  When a class is no longer appears in the stream, AnyNovel remove its relevant instances. 
+  When a class is no longer appears in the stream, removeClass remove all of its relevant instances. 
   
-  - private static void updateResults(String NP, NovelPredection pred): 
+  - void updateResults(String NP, NovelPredection pred): 
   
 takes the prediction of recent instances and update the model accordingly. Controls Buffer data, actions include accumulate, release, declare with a decision. 
 
-  
-
+ 
 
 
 Setup and commandas
