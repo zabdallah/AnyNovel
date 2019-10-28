@@ -7,7 +7,7 @@ This is an implementation of AnyNovel Algorithm for detecting novel concepts in 
 Classes and Key functions: 
 ------------------------------
 - **class ExpLauncher:** 
-The main launcher to run training/ building the model followed by AnyNovel using either train and test data or loading an existing model. The class is the main interface for collecting arguments and build a new model or load an existing model.
+The main launcher to run training/ building the model followed by AnyNovel. The class is the main interface for collecting arguments and build a new model or load an existing model.
 
 - **class TrainingLauncher:**
 This class is responsible for AnyNovel offline phase of building the model from a training data.
